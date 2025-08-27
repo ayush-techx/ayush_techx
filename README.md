@@ -34,7 +34,7 @@
 ---
 
 ## 🌐 Connect with Me 
-- [LinkedIn]https://www.linkedin.com/in/ayush-kumar-61475b344
+- [LinkedIn](https://www.linkedin.com/in/ayush-kumar-61475b344)
 
 ---
 
