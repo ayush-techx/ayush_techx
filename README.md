@@ -1,24 +1,41 @@
 # Hi there 👋 I'm Ayush
 
-🎓 Electrical Engineering Student | Aspiring Software Developer | Open-Source Enthusiast
+🎓 Electrical Engineering student | Aspiring Software Developer | Open-Source Enthusiast  
+💡 Currently building **TruthLayer**, a browser extension + web platform to verify online content credibility  
 
-💻 **What I do:**  
-- Building projects in **Java, JavaFX, React, Node.js, and IoT**  
-- Practicing **Data Structures & Algorithms** for problem-solving  
-- Exploring open-source and contributing to meaningful projects  
+---
 
-🌱 **Currently Learning:**  
-- Full-stack web development (React + Node.js)  
-- Advanced IoT & embedded systems  
-- Linux from scratch for deep OS understanding  
+## 💻 Tech & Skills
+- **Languages & Frameworks:** Java, JavaFX, React, Node.js, JavaScript, HTML, CSS  
+- **Tools & Platforms:** Git/GitHub, VS Code, IntelliJ IDEA, Arduino, Fedora Linux  
+- **Other:** IoT prototyping (Arduino & sensors), Linux basics, DSA & algorithm problem solving  
 
-🎯 **Goals:**  
-- Land an international internship (Europe/US)  
-- Build impactful projects that solve real-world problems  
-- Secure an SDE role after graduation  
+---
 
-📫 **Connect with me:**  
-- [GitHub](https://github.com/YourUsername)  
-- [LinkedIn](https://linkedin.com/in/YourLinkedIn)  
+## 🌱 Currently Learning
+- Full-stack web development (React + Node.js backend)  
+- Advanced IoT & embedded systems projects  
+- Linux from Scratch for a deep understanding of OS internals  
 
-⚡ Fun fact: I like creating small games and unique IoT projects just for learning and experimentation 🎮🔧
+---
+
+## 🎯 Goals
+- Land an **international internship** (Europe/US) by Jan 2026  
+- Build projects with **real-world impact**  
+- Secure a **Software Development Engineer role** after graduation  
+
+---
+
+## 🛠️ Projects & Highlights
+- **TruthLayer:** AI + crowd-verified trust signals for tweets, reels, articles & reviews  
+- **JavaFX Maze Game:** Dynamic maze with traps, timer, moves counter & high score saving  
+- **Arduino Projects:** PIR + buzzer, LDR-based LED system, IoT experiments  
+
+---
+
+## 🌐 Connect with Me 
+- [LinkedIn]https://www.linkedin.com/in/ayush-kumar-61475b344
+
+---
+
+⚡ Fun fact: I love experimenting with **unique project ideas**, blending software and hardware to solve real problems 🎮🔧
